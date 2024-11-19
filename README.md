@@ -1,4 +1,4 @@
 # sibam
 This is my first Git Repository.
 <br>
-Author - Sibam Sahoo
+Author - Sibam (sk)
